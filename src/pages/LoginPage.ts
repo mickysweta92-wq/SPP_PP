@@ -9,6 +9,10 @@ export class LoginPage extends BasePage {
   readonly signInButton: Locator;
   readonly validationMessages: Locator;
 
+
+
+
+  
   constructor(page: Page) {
     super(page);
     this.heading = page.getByRole('heading', { name: 'Sign in', level: 1 });

@@ -212,3 +212,7 @@ Verified result: two consecutive serial runs, 52/52 passed (~2.5 min per full ru
 - CI pipeline (GitHub Actions / Azure DevOps) with HTML report and trace artifacts.
 - Cross-browser and responsive (mobile viewport) projects.
 - Test-case ID traceability and tagging (`@regression`, `@smoke`).
+
+
+
+-agvdgshvdhsvshdvshvshdbshdb
