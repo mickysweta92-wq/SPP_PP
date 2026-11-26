@@ -1,0 +1,24 @@
+{
+  "name": "spp-automation",
+  "version": "1.0.0",
+  "description": "Playwright + TypeScript UI automation framework for Star Partnership Partner Connect (SPP)",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:smoke": "playwright test --grep @smoke",
+    "test:login": "playwright test tests/login",
+    "test:dashboard": "playwright test tests/dashboard",
+    "report": "playwright show-report",
+    "typecheck": "tsc --noEmit"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.11",
+    "dotenv": "^18.0.10",
+    "typescript": "^7.0.2"
+  }
+}

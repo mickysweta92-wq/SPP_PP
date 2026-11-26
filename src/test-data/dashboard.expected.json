@@ -1,0 +1,44 @@
+{
+  "user": {
+    "tier": "Leading Star",
+    "welcomeMessage": "Welcome to Star Partnership",
+    "starPoints": 25245,
+    "expiringStarPoints": 0,
+    "cartCount": 0
+  },
+  "achievements": {
+    "tiers": ["Rising Star", "Advancing Star", "Leading Star"],
+    "achievedTierCount": 3,
+    "hl": { "achieved": 15335, "target": 9970 }
+  },
+  "monthlyGoals": [
+    { "month": "Jan", "hl": 620 },
+    { "month": "Feb", "hl": 420 },
+    { "month": "Mar", "hl": 610 },
+    { "month": "Apr", "hl": 990 },
+    { "month": "May", "hl": 850 },
+    { "month": "Jun", "hl": 1100 },
+    { "month": "Jul", "hl": 1200 },
+    { "month": "Aug", "hl": 950 },
+    { "month": "Sep", "hl": 840 },
+    { "month": "Oct", "hl": 770 },
+    { "month": "Nov", "hl": 790 },
+    { "month": "Dec", "hl": 830 }
+  ],
+  "featuredRewards": [
+    "Global Experiences NZD 1000",
+    "Prezzee NZD 1000",
+    "JB Hi-Fi Digital eGift Card $1000",
+    "Myer Digital eGift Card AUD$1000",
+    "Amazon AU e-Gift Cards AUD$1000",
+    "Flight Centre eGift Card $1000",
+    "Trip.com Gift Card USD$1000",
+    "tripgift eGift Card USD 1000"
+  ],
+  "sidebar": [
+    { "name": "Star Partnership Home", "href": "/dashboard" },
+    { "name": "About Star Partnership", "href": "/about-us" },
+    { "name": "My Star Points", "href": "/mytransaction" },
+    { "name": "View Rewards", "href": "/catalogue" }
+  ]
+}
